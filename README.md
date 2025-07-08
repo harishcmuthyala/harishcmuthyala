@@ -78,14 +78,6 @@ I'm a Generative AI & Machine Learning Engineer currently pursuing my Master's i
 
 ---
 
-## 📫 How to reach me
-
-- **Email:** harishcmuthyala@gmail.com
-- **LinkedIn:** [linkedin.com/in/harish-muthyala](https://linkedin.com/in/harish-muthyala)
-- **GitHub:** [github.com/harishcmuthyala](https://github.com/harishcmuthyala)
-
----
-
 <!--
 _Always learning. Always building. Open to collaboration on AI/ML, cloud, and data-driven projects!_
 -->
