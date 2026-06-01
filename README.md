@@ -56,25 +56,26 @@ I'm a Generative AI & Machine Learning Engineer currently pursuing my Master's i
 
 ## 🏆 Credentials & Achievements
 
-- AWS Solutions Architect - Associate
-- Accenture Trailblazer Award
+- AWS 10000 AIdeas NorthAmerica Regional Champion
+- Innovation in Leadership Award - Hawk Excellence Awards 2026
+- Accenture Trailblazer Award - FY24 Q1
 - Hawks Scholarship
+- AWS Solutions Architect - Associate
 
 ---
 
 ## 💡 Projects
 
-### [Model Context Protocol](#)
-*Python, Claude, Research, Langchain*  
-- Built MCP client-server architecture for seamless LLM-application communication
-- Analyzed integration patterns and demonstrated real-world MCP applications
-- Created examples: file creation, Google Maps integration via MCP servers
+### [EdgeLM - On-Device LLM Summarization](#)
+*ExecuTorch, PyTorch, Llama 3.2 1B, Android, Kotlin*  
+- Deployed quantized Llama 3.2 1B (SpinQuant INT4) on Android via ExecuTorch — end-to-end pipeline from HuggingFace export to on-device inference at ~20 tok/s decode with no Python runtime dependency.
+- Implemented Android text selection integration using ACTION\_PROCESS\_TEXT, surfacing on-device summarization inside any Android app — browser, email, notes — with no internet required and user data never leaving the device.
 
-### [Exploratory Data Analysis on Customer Churn Prediction](#)
-*Random Forest, Python, Jupyter, Pandas, Git*  
-- Developed telecom churn prediction model (RF, 92% accuracy)
-- Performed EDA to identify key factors in customer attrition
-- Enhanced retention strategies via individualized churn probability models
+### [DocuQuery - Agentic RAG System with End-to-End Observability](#)
+*LangGraph, FAISS, LangSmith, Groq*  
+- Designed ReAct agent using LangGraph that dynamically decomposes complex multi-part queries into targeted sub-questions, addressing core retrieval limitations of naive RAG systems.
+- Integrated LangSmith for end-to-end tracing of every agent step, tool call, and LLM invocation - enabling systematic debugging of retrieval failures and hallucination points across the ReAct agent pipeline.
+
 
 ---
 
