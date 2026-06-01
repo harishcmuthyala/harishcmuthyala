@@ -66,12 +66,12 @@ I'm a Generative AI & Machine Learning Engineer currently pursuing my Master's i
 
 ## 💡 Projects
 
-### [EdgeLM - On-Device LLM Summarization](#)
+### [EdgeLM - On-Device LLM Summarization](https://github.com/harishcmuthyala/edgelm)
 *ExecuTorch, PyTorch, Llama 3.2 1B, Android, Kotlin*  
 - Deployed quantized Llama 3.2 1B (SpinQuant INT4) on Android via ExecuTorch — end-to-end pipeline from HuggingFace export to on-device inference at ~20 tok/s decode with no Python runtime dependency.
 - Implemented Android text selection integration using ACTION\_PROCESS\_TEXT, surfacing on-device summarization inside any Android app — browser, email, notes — with no internet required and user data never leaving the device.
 
-### [DocuQuery - Agentic RAG System with End-to-End Observability](#)
+### [DocuQuery - Agentic RAG System with End-to-End Observability](https://github.com/harishcmuthyala/docuquery)
 *LangGraph, FAISS, LangSmith, Groq*  
 - Designed ReAct agent using LangGraph that dynamically decomposes complex multi-part queries into targeted sub-questions, addressing core retrieval limitations of naive RAG systems.
 - Integrated LangSmith for end-to-end tracing of every agent step, tool call, and LLM invocation - enabling systematic debugging of retrieval failures and hallucination points across the ReAct agent pipeline.
